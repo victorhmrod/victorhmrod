@@ -1,7 +1,7 @@
 # Hello, you can call me Victor & <br>I'm a game developer at Unreal Engine!
 
 <div style="display: inline_block">
-<p>I have been working in the area for 5 years, my main focus is Unreal Engine but I also have experience with web design and backend</p>
+<p>I have been working in the area for 8 years, my main focus is Unreal Engine but I also have experience with web design and backend</p>
 </div>
 
 <div> 
