@@ -1,25 +1,25 @@
 # 🎮 Victor H. (VH) | Unreal Engine Game Developer
 
-## 💡 Sobre Mim
+## 💡 About Me
 **/* About Me /***
 
-Sou um **Game Developer** com **10 anos de experiência**, focado principalmente no desenvolvimento de jogos utilizando **Unreal Engine**.
+I am a **Game Developer** with **10 years of experience**, primarily focused on game development using **Unreal Engine**.
 
-Minha paixão é criar experiências imersivas e otimizar a performance de jogos.
+My passion is creating immersive experiences and optimizing game performance.
 
-### 🛠️ Habilidades Técnicas Principais
+### 🛠️ Core Technical Skills
 **/* Core Technical Skills /***
 
-* **Unreal Engine (Foco Principal):** Proficiente em Blueprints e C++, com experiência em otimização, IA e sistemas de jogo complexos.
-* **Web Design:** Experiência em desenvolvimento front-end (HTML, CSS, JavaScript).
-* **Backend:** Conhecimento em arquitetura de servidor e lógica de backend.
+* **Unreal Engine (Primary Focus):** Proficient in Blueprints and C++, with experience in optimization, AI, and complex game systems.
+* **Web Design:** Experience in front-end development (HTML, CSS, JavaScript).
+* **Backend:** Knowledge of server architecture and backend logic.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 **/* Connect With Me /***
 
-| Plataforma | Link |
+| Platform | Link |
 | :--- | :--- |
 | **Discord** | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8jsepJkW3D) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-72025928b/) |
@@ -27,7 +27,7 @@ Minha paixão é criar experiências imersivas e otimizar a performance de jogos
 
 ---
 
-## 📌 O Que Você Vai Encontrar Aqui
+## 📌 What You'll Find Here
 **/* What You'll Find Here /***
 
-Este perfil contém projetos de desenvolvimento de jogos, protótipos e exemplos de código C++/Blueprints para Unreal Engine.
+This profile contains game development projects, prototypes, and C++/Blueprints code samples for Unreal Engine.
