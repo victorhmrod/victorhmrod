@@ -1,23 +1,18 @@
 # 🎮 Victor H. (VH) | Unreal Engine Game Developer
 
 ## 💡 About Me
-**/* About Me /***
 
 I am a **Game Developer** with **10 years of experience**, primarily focused on game development using **Unreal Engine**.
 
 My passion is creating immersive experiences and optimizing game performance.
 
 ### 🛠️ Core Technical Skills
-**/* Core Technical Skills /***
 
 * **Unreal Engine (Primary Focus):** Proficient in Blueprints and C++, with experience in optimization, AI, and complex game systems.
 * **Web Design:** Experience in front-end development (HTML, CSS, JavaScript).
 * **Backend:** Knowledge of server architecture and backend logic.
 
----
-
 ## 🌐 Connect With Me
-**/* Connect With Me /***
 
 | Platform | Link |
 | :--- | :--- |
@@ -28,6 +23,5 @@ My passion is creating immersive experiences and optimizing game performance.
 ---
 
 ## 📌 What You'll Find Here
-**/* What You'll Find Here /***
 
 This profile contains game development projects, prototypes, and C++/Blueprints code samples for Unreal Engine.
