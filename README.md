@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I am a **Game Developer** with **10 years of experience**, primarily focused on game development using **Unreal Engine**.
+I am a **Game Developer** with **8 years of experience**, primarily focused on game development using **Unreal Engine**.
 
 My passion is creating immersive experiences and optimizing game performance.
 
